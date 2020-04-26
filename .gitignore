@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 credentials.csv
+
+# config file with AWS credentials.
+/settings/config.py
